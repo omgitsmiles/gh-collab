@@ -36,4 +36,7 @@ After succesfully merging a branch and working on a new feature:
   create a new branch and run
    git checkout(or co) -b "name of feature being worked on"
 
-
+resources:
+   https://www.youtube.com/watch?v=MnUd31TvBoU&t=481s&ab_channel=TheNetNinja
+   
+   https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
