@@ -14,6 +14,7 @@ Once a collaborator on the project:
 - Clone, NOT FORK, the repo (forking will create a new copy for your person GH, not use the same repo on origional authors page that can be collaborated with.)
 - cd into the directory
 - make sure your on the main/master branch. to check run 
+   git status OR
    git rev-parse --abbrev-ref HEAD
 - to keep files up to date locally (if other devs have updated the repo on their end) run
    git pull origin -main(or master depending on what it was named)
