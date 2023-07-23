@@ -1,5 +1,8 @@
 Getting some practice in so we're not overwriting the whole code base, just working on certain features.
 
+after cloning repo run
+- npm run dev to deploy live server
+
 To add collaborators to a repo:
 
 - go to the repo settings.
